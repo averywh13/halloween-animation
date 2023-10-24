@@ -281,3 +281,9 @@ html:hover .spider {
         transform: translateY(-20px);
     }
 }
+h1{
+    font-size: 75px;
+    font-family: "p22-spooky", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
